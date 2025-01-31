@@ -1,1 +1,1 @@
-export const URL = 'devblogsapi-production.up.railway.app';
+export const URL = 'http://devblogsapi-production.up.railway.app';
